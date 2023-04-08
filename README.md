@@ -2,7 +2,7 @@
 Hello ! , This is a new and advanced logger made by external !
 
 
-The options are =
+Discord 
 -
 Token
 Nitro

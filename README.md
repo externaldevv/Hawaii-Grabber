@@ -3,7 +3,7 @@ Hello ! , This is a new and advanced logger made by external !
 
 
 The options are =
-
+-
 Token
 Nitro
 Billing
@@ -55,7 +55,3 @@ Bypass Token Protector
 File Pumper
 Self Destruct
 
- _._     _,-'""`-._
-(,-.`._,'(       |\`-/|
-    `-.-' \ )-`( , o o)
-          `-    \`_`"'
